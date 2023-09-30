@@ -17,3 +17,5 @@ Say hello to these wonderful people :
     </tr>
   </tbody>
 </table>
+
+You can contribute to get yourself on this list! 😄
