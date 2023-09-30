@@ -1,6 +1,6 @@
 # Guide for making your first-ever contribution
 
-<b> Congratulations on taking your first step towards becoming an open-source contributor </b> 🚀
+<b><i> Congratulations on taking your first step towards becoming an open-source contributor </i></b> 🚀
 
 I'm thrilled to have you join the community of enthusiastic developers. This repository is designed with you in mind, offering a friendly and approachable way to make your first open-source contribution. It's a fantastic opportunity to learn, collaborate, and grow your skills while contributing to real-world projects.
 
