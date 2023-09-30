@@ -1,20 +1,20 @@
-# Guide to make your first ever contribution
+# Guide for making your first-ever contribution
 
-Congratulations on taking your first step towards becoming an open source contributor 🚀
+## Congratulations on taking your first step towards becoming an open-source contributor 🚀
 
-I'm thrilled to have you join the community of enthusiastic developers. This repository is designed with you in mind, offering a friendly and approachable way to make your first open source contribution. It's a fantastic opportunity to learn, collaborate, and grow your skills while contributing to real-world projects.
+I'm thrilled to have you join the community of enthusiastic developers. This repository is designed with you in mind, offering a friendly and approachable way to make your first open-source contribution. It's a fantastic opportunity to learn, collaborate, and grow your skills while contributing to real-world projects.
 
-## Steps to add yourself to contributors list
+### Steps to add yourself to the contributors list
 
-1. You will first need git which you can download from [here](https://git-scm.com/downloads).
+1) You will first need git which you can download from [here](https://git-scm.com/downloads).
 
-2) Now head [here](https://github.com/alisolanki/Welcome-to-Open-Source) and click on the `fork` button.
+2) Now head [here](https://github.com/tanishkamakode/First-Contribution-to-Open-source) and click on the `fork` button.
 
 3) On the next page you will see a `create fork` button, press it.
 
 4) You will land on your forked repo page, here you will see a `<> Code` button marked in green, click on it and copy the url.
 
-5) Open your terminal and type git clone <url you copied> and press enter.
+5) Open your terminal, type git clone <url you copied> and press enter.
 
 6) Now you will see a folder named `Welcome-to-Open-Source`, open it and edit the `README.md` file using any text editor, VScode for example.
 
@@ -22,24 +22,17 @@ I'm thrilled to have you join the community of enthusiastic developers. This rep
 
    ```
    <td align="center">
-       <a href="https://alisolanki.com/">
-           <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+       <a href="https://github.com/tanishkamakode">
+           <img src="https://avatars.githubusercontent.com/u/122148344?v=4" width="100px;" alt="Tanishka Makode"/>
            <br />
-           <sub><b>Ali Solanki</b></sub>
-       </a>
-   </td>
-    <td align="center">
-       <a href="https://github.com/neeraj500">
-           <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
-           <br />
-           <sub><b>Neeraj Madake
+           <sub><b>Tanishka Makode</b></sub>
        </a>
    </td>
    ```
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> ✨"` and lastly `git push origin master`.
 
-9) Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `create pull request`.
+9) Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributor list" and press on `create pull request`.
 
 10) You have created a pull request, wait for me to review and merge it : )
 
