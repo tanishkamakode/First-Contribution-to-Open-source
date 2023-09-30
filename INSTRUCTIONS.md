@@ -16,7 +16,7 @@ I'm thrilled to have you join the community of enthusiastic developers. This rep
 
 5) Open your terminal, type git clone <url you copied> and press enter.
 
-6) Now you will see a folder named `Welcome-to-Open-Source`, open it and edit the `README.md` file using any text editor, VScode for example.
+6) Now you will see a folder named `First-Contribution-to-Open-Source`, open it and edit the `README.md` file using any text editor, VScode for example.
 
 7) Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
 
