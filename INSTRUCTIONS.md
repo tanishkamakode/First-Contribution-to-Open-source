@@ -14,7 +14,7 @@ I'm thrilled to have you join the community of enthusiastic developers. This rep
 
 4) You will land on your forked repo page, here you will see a `<> Code` button marked in green, click on it and copy the url.
 
-5) Open your terminal, type git clone <url you copied> and press enter.
+5) Open your terminal, type git clone ```<url you copied>``` and press enter.
 
 6) Now you will see a folder named `First-Contribution-to-Open-Source`, open it and edit the `README.md` file using any text editor, VScode for example.
 
